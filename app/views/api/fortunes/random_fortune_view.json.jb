@@ -1,1 +1,1 @@
-{message: @fortunes.sample}
+{message: @fortunes[rand(3)]}
